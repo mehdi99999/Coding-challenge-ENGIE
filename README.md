@@ -8,7 +8,7 @@ Pour créer mon API, j’ai utilisé le framework Flask et pour l’essayer, j�
 To run the API, the first step is to host it: <br>
 ```php
 if __name__ == '__main__':
-    app.run(port=8888)  # run our Flask app on the 8888 port
+    app.run(host='0.0.0.0', port=8888, debug=True)    
 ```
 <p>
 Then, when running the script 
