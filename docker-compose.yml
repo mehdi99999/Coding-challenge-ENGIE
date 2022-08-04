@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  web:
+    image: pythonforchallenge:latest
+    restart: always
+    ports:
+      # <Port exposed> : < Port running inside container>
+      - '8888:8888'
+    expose:
+      # Opens port 8888 on the container
+      - '8888'
+    volumes:
+      - ./app:/challenge
