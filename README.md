@@ -12,3 +12,9 @@ if __name__ == '__main__':
 ```
 <p>
  running the script 
+
+## Screenshot of the stages of this challenge
+
+![chalenge3](https://user-images.githubusercontent.com/84573619/182846215-97c3270e-d5db-4179-b3bb-651cfcdf709a.PNG)
+![challeng2](https://user-images.githubusercontent.com/84573619/182846218-8d833d25-423c-4cb5-b8ae-7c2fa51351a8.PNG)
+![challenge1](https://user-images.githubusercontent.com/84573619/182846223-78b68661-68e8-4142-a55d-1208b2323bba.PNG)
