@@ -11,7 +11,4 @@ if __name__ == '__main__':
     app.run(port=8888)  # run our Flask app on the 8888 port
 ```
 <p>
-Then, when running the script we get this message:<br>
- 
-![image](https://user-images.githubusercontent.com/47385060/142242336-4b285f8e-aa40-48b2-b241-8a342dffcb34.png)
-<br>
+Then, when running the script 
